@@ -1,0 +1,54 @@
+body{
+	background:url(https://wallpapers-hub.art/wallpaper-images/340452.png);
+	background-position: center;
+    background-size: cover;
+    height: auto;
+}
+h1{
+	color:orange;
+	text-align:center;
+}
+.prebpa{
+	color:white;
+	text-align:center;
+	font-size:16px;
+}
+.image1{
+	margin-left:450px;
+}
+.image2{
+	/* margin-left:900px; */
+	float:right;
+}
+.benefits{
+	font-size:22px;
+	font-weight:bold;
+	color:orange;
+}
+li{
+	color:white;
+	font-size:17px;
+}
+.preben{
+	color:white;
+	font-size:16px;
+}
+/*
+.linkwithben{
+	display:flex;
+	background-color:;
+}
+*/
+.com{
+	color:orange;
+}
+.def{
+	color:white;
+	text-align:center;
+	font-size:16px;
+}
+.advan{
+	color:orange;
+	font-size:20px;
+	
+}
